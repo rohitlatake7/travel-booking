@@ -9,6 +9,8 @@ public class flight {
     @GetMapping("/flight")
     public String getData()
     {
-        return "Please book your f;ight";
+        return "Please book your fight";
     }
+
+//    public String getDa add your basic info";}
 }
